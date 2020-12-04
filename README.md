@@ -1,15 +1,15 @@
 # Weapons & Knives for CS:GO Community Servers
 
-update:
-fix mysql problem;
-update new skin;
+Updates:
+fixed mysql problem;
+added new skins;
 
-origin by kgns;
-1. support different skin and knife for different team;
-2. support apply different weapon skin (eg. ak use deagle skin);
-3. cvar "sm_weapons_enable_paints" to disable up weapon
-4. support random knife;
-5. drop knife🔪 can pick up;
+Original by kgns;
+1. support for different skins and knives for different teams;
+2. apply any skin to any weapon (e.g. AK 47 | Cyrex);
+3. Added cvar "sm_weapons_enable_paints" to disable weapon skins
+4. added support for random knife;
+5. can drop knife🔪 and pick up;
 
 原作者为 kgns;
 
@@ -22,4 +22,4 @@ origin by kgns;
 5. 新增 随机刀 选项
 5. 丢🔪刀可选
 
-Modify by Bone;
+Modified by Bone;
